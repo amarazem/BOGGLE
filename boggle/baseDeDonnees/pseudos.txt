@@ -1,0 +1,17 @@
+zine,62,39
+amar,422,132
+dali,0,0
+,203,163
+zineddine,19,16
+re,0,0
+Emma,20,19
+Mahmud,9,4
+dalia,6,5
+mouloud,0,0
+marin,0,0
+zined,2,2
+zin,2,2
+ziine,0,0
+bahia,9,7
+ra,6,6
+*,0,0
